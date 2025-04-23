@@ -23,7 +23,7 @@ import static org.hamcrest.Matchers.*;
 		        .when()
 		            .post("/practice-test-login/")
 		        .then()
-		            .statusCode(302) // Expecting redirect on success
+		            .statusCode(302) 
 		            .extract().response();
 
 		        // Print full response
