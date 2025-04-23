@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-23T20:31:41 IST" name="Default suite" finished-at="2025-04-23T20:31:55 IST" duration-ms="13791">
+    <groups>
+    </groups>
+    <test started-at="2025-04-23T20:31:41 IST" name="Default test" finished-at="2025-04-23T20:31:55 IST" duration-ms="13791">
+      <class name="WebLoginFlow.WebLogin">
+        <test-method signature="opensite()[pri:1, instance:WebLoginFlow.WebLogin@3c19aaa5]" started-at="2025-04-23T20:31:41 IST" name="opensite" finished-at="2025-04-23T20:31:52 IST" duration-ms="11110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opensite -->
+        <test-method signature="enterCrendentials()[pri:2, instance:WebLoginFlow.WebLogin@3c19aaa5]" started-at="2025-04-23T20:31:52 IST" name="enterCrendentials" finished-at="2025-04-23T20:31:53 IST" duration-ms="933" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterCrendentials -->
+        <test-method signature="clickLogin()[pri:3, instance:WebLoginFlow.WebLogin@3c19aaa5]" started-at="2025-04-23T20:31:53 IST" name="clickLogin" finished-at="2025-04-23T20:31:55 IST" duration-ms="1601" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickLogin -->
+        <test-method signature="verifyLogin()[pri:4, instance:WebLoginFlow.WebLogin@3c19aaa5]" started-at="2025-04-23T20:31:55 IST" name="verifyLogin" finished-at="2025-04-23T20:31:55 IST" duration-ms="75" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+      </class> <!-- WebLoginFlow.WebLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
